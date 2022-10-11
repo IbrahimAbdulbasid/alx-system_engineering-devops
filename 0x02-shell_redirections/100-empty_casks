@@ -1,2 +1,2 @@
 #!/bin/bash
-rind . -empty -printf "%f\n"
+rind . -empty -Printf "%f\n"
